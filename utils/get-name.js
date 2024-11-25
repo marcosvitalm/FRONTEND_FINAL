@@ -11,9 +11,6 @@ export async function getName() {
         }
             
     }).then(response => response.json())
-    
-    
-    const name = await getName()
 
     const nameP = document.querySelector(".user p")
     nameP.innerText = `Usuário: ${response.name}`
