@@ -8,8 +8,6 @@ verifyToken(url)
 getName()
 logout()
 
-
-
 let currentSlide = 0;
 
 function showSlide(index) {
