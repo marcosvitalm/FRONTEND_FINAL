@@ -177,6 +177,6 @@ body {
     color: var(--texto-recuperar);
     margin: 4px;
     font-family: "Laila", serif;
-    font-weight: 700;
-    font-style:normal;
+    font-weight: 600;
+    font-style: normal;
 }
