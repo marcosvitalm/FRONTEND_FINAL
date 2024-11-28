@@ -131,7 +131,7 @@ body {
     font-style: normal;
 }
 
-.cadastro button[type="submit"] {
+.cadastro a{
     padding: 10px;
     background-color: var(--texto-biosfera);
     color: var(--elementos-recuperar2);
@@ -147,7 +147,7 @@ body {
     font-style: normal;
 }
 
-.cadastro button[type="submit"]:hover {
+.cadastro a:hover {
     background-color: rgb(90, 57, 25);
 }
 
